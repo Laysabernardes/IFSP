@@ -1,0 +1,37 @@
+--------------------- JAVA - CYRSO YOUTUBE
+Aula 1-7 
+    JVM -> significa JAVA VIRUAL MACHINE que é a maquina virtual do java, usada para poder executar as aplicações de java em todos os sistemas operacionais.
+
+    JDK -> Kit de desenvolvimento do Java 
+
+AULA 8 - 
+    PACKAGE
+        Significa Pacotes é são uma forma de agrupamento de classes 
+        ->Declaração de um package:
+            ::
+                package nomeDoPacote;
+                public class classeNormal{
+                    xxcoteudos da classe
+                }
+            ::
+        ->Estrutura dos Diretorios:
+            Se a organização das pastas estivrem como por exemplo: app/ex/tp1 fica assim
+            ::
+                package app.ex.tp1;
+                public class classeNormal{
+                    xxconteudo da classe
+                }
+            ::
+        ->Importar:
+            Para importar basta utilizar a palavra reservada 'import' 
+            :: 
+                import com.exemplo.outropacote.OutraClasse;
+                public class MinhaClasse {
+                    // pode usar OutraClasse aqui
+                }
+            ::
+
+            -> Pra uma importação global pode usar o '*'
+            ::
+               import com.exemplo.outropacote.*; 
+            ::
