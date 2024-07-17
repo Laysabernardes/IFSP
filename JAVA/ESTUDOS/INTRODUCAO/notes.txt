@@ -42,4 +42,13 @@ AULA 9 - Comentarios
         /* 
             bloco comentado
         */
+AULA 10 - 14 # Tipos Primitivos Parte 
+    ->Atalho para o main 
+        //tsvm e aperta tab e sai a linha: public static void main (String[] args)
+    
+    ->Os tipos primitivos são os  tipos que vão guardar em memoria um valo simples, todos escritos em letra minuscula: int,double, float, char, byte, short, boolean
+
+    -> String não é um tipo primitivo e sim uma class, portando a primeira letra é maiscula.
+        a diferença na hora de declarar é que um cahar voce delara com aspas simples ja uma String deve ser delarada com aspas duplas. 
+
 
