@@ -51,4 +51,5 @@ AULA 10 - 14 # Tipos Primitivos Parte
     -> String não é um tipo primitivo e sim uma class, portando a primeira letra é maiscula.
         a diferença na hora de declarar é que um cahar voce delara com aspas simples ja uma String deve ser delarada com aspas duplas. 
 
-
+AULA 15 - 19 # OPERADORES
+    -> Os operadores relacionais sempre vão retornar um valor booleano. 
